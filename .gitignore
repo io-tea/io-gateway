@@ -1,4 +1,5 @@
 **/.DS_Store
+*.sw[mnopq]
 .idea/
 BUILD/
 Would skip repository mbed-os/
